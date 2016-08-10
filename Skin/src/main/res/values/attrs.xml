@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Skin">
+        <attr name="dayTc" format="color" />
+        <attr name="nigTc" format="color" />
+        <attr name="dayBc" format="color" />
+        <attr name="nigBc" format="color" />
+        <attr name="dayBg" format="reference" />
+        <attr name="nigBg" format="reference" />
+        <attr name="daySr" format="reference" />
+        <attr name="nigSr" format="reference" />
+    </declare-styleable>
+
+</resources>
